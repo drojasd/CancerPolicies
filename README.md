@@ -5,3 +5,5 @@ In this repository, we present the necessary codes and results to perform a vali
 In notebook [1](https://drojasd.github.io/CancerPolicies/html/EstimationsAuxModel2.html) we present parameter estimation and validation for auxiliary model 1.
 In notebook [2](https://drojasd.github.io/CancerPolicies/html/CopyProm_EstimationsAuxModel.html) we present parameter estimation and validation for auxiliary model 2.
 In notebook [3](https://drojasd.github.io/CancerPolicies/html/Experimentos.html) we present sensitivity and uncertainty analysis alongside simulation of scenarios for proposed cancer-care model.
+
+[![DOI](https://zenodo.org/badge/604302658.svg)](https://zenodo.org/badge/latestdoi/604302658)
